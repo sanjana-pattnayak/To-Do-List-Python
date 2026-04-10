@@ -1,4 +1,3 @@
-# File name: todo.py
 
 # Function to load tasks from file
 def load_tasks():

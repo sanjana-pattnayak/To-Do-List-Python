@@ -1,1 +1,3 @@
 i have to learn english tomorrow
+Complete Python internship assignment
+Revise statistics concepts (IQR, variance)
