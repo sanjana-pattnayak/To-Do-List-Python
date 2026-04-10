@@ -18,8 +18,5 @@ Tasks are stored in a file for persistence.
 ## ▶️ How to Run
 python todo.py
 
-## 📷 Output Screenshots
-(Add your screenshots here)
-
 ## 🎯 Learning Outcome
 Learned file handling, lists, and CLI-based application development.
